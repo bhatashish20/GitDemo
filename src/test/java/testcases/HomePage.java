@@ -31,8 +31,6 @@ public class HomePage extends Baseclass {
         System.out.println("Bye ashish");
         System.out.println("Hello Ashish");
         System.out.println("Bye ashish");
-        System.out.println("Hello Ashish");
-        System.out.println("Bye ashish");
         lp.button().click();
 
     }
