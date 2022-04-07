@@ -32,6 +32,7 @@ public class LandingPage {
     }
     public WebElement navbar(){
         return driver.findElement(nav);
+
     }
 }
 
