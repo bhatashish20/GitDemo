@@ -27,6 +27,8 @@ public class HomePage extends Baseclass {
         LoginPage lp = new LoginPage(driver);
         lp.userName().sendKeys("abc@qw.com");
         lp.passward().sendKeys("1232323");
+        System.out.println("Hello Ashish");
+        System.out.println("Bye ashish");
         lp.button().click();
 
     }
