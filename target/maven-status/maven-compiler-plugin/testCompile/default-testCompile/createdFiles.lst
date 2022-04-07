@@ -1,0 +1,4 @@
+testcases\TestSuite.class
+testcases\HomePage.class
+testcases\ValidiateEmail.class
+testcases\Validiatetext.class
